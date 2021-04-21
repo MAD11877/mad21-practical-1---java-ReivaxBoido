@@ -14,7 +14,7 @@ public class Question4
      *     **
      *     *
      * 
-     * Hint: 2 loops are required. System.out.print(...) to print on single line.
+     * Hint: 2 loops are required. System.out.print(...) to print on single line. k
      */
      
     Scanner in = new Scanner(System.in);
