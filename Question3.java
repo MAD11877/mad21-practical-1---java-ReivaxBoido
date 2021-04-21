@@ -7,10 +7,12 @@ public class Question3
     /**
      * Reads integer entered by the user, multiplies the integer by itself and print out the result.
      * 
-     * Hint: in.nextInt() to read integer
+     * Hint: in.nextInt() to read integer k
      */
      
     Scanner in = new Scanner(System.in);
-    
+    int input = in.nextInt();
+    input *= input;
+    System.out.println(input);
   }
 }
